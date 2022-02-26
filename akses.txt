@@ -38,9 +38,9 @@ http://www.die-linke-zeitung.de/images/stories/3xp.php
 http://bwr-bmoa.com
 https://onexploitkalteng.000webhostapp.com/v.php
 https://muscathouseshifting.com/up.php
-http://balmazporteka.hu/up.php
-http://richhaircare.hu/up.php
-http://bihariporteka.hu/up.php
+http://balmazporteka.hu/up.php > ganti > upload.php
+http://richhaircare.hu/up.php > upload.php
+http://bihariporteka.hu/up.php > upload.php
 http://dife.hu/up.php
 http://greenguru.hu/up.php > http://greenguru.hu/upload.php
 https://wisuda.uns.ac.id/upload.php
