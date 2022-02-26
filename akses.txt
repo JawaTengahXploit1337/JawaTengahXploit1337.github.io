@@ -42,7 +42,7 @@ http://balmazporteka.hu/up.php
 http://richhaircare.hu/up.php
 http://bihariporteka.hu/up.php
 http://dife.hu/up.php
-http://greenguru.hu/up.php
+http://greenguru.hu/up.php > http://greenguru.hu/upload.php
 https://wisuda.uns.ac.id/upload.php
 http://iklim.endekab.go.id/upload.php
 https://itjen.kemkes.go.id/public/filemanager/img/ico_dark/uploader.php
