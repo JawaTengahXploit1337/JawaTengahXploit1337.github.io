@@ -37,7 +37,7 @@ http://elastrap.com/modules/jmsslider/views/img/layers/up.php
 http://www.die-linke-zeitung.de/images/stories/3xp.php
 http://bwr-bmoa.com
 https://onexploitkalteng.000webhostapp.com/v.php
-https://muscathouseshifting.com/up.php
+https://muscathouseshifting.com/up.php > upload.php
 http://balmazporteka.hu/up.php > ganti > upload.php
 http://richhaircare.hu/up.php > upload.php
 http://bihariporteka.hu/up.php > upload.php
