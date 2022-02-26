@@ -59,6 +59,9 @@ http://149.28.172.227/wordpress/upload.php
 https://softdrinkslab.com/wp-admin/upload.php
 https://lacosteoutlet.com.co/wp-admin/upload.php
 https://aamedsol.com/wp-admin/upload.php
+http://skinfoindonesia.xyz/up.php
+http://klinikalifmedika.xyz/up.php
+http://tamailautara.openbumdes.id/up.php
 http://dokoti.com/up.php
 http://kimji.nl/Up.php
 https://premtourssrilanka.com/Uploader.php
