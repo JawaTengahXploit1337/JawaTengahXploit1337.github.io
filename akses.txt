@@ -46,3 +46,5 @@ http://greenguru.hu/up.php
 https://wisuda.uns.ac.id/upload.php
 http://iklim.endekab.go.id/upload.php
 https://itjen.kemkes.go.id/public/filemanager/img/ico_dark/uploader.php
+https://www.linhuglobal.com/wp-content/uploads/2022/02/Rz.html
+https://techpointshop.com/wp-admin/up.php
