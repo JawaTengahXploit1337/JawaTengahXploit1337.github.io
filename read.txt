@@ -187,8 +187,9 @@ echo "<tr><td><font color='white'>
 + IP Kamu Syg    <td>: <font color='LightBlue'>".$_SERVER['REMOTE_ADDR']."<tr><td><font color='white'>
 + IP Server  <td>: <font color='LightBlue'>".gethostbyname($_SERVER['HTTP_HOST'])."<tr><td><font color='white'>
 + system     <td>: <font color='LightBlue'>".php_uname()."<tr><td><font color='white'>
-+ Coded By   <td>: <font color='LightBlue'>./W4D3R 1337<tr><td><font color='white'>
++ Recoded By <td>: <font color='LightBlue'>./W4D3R 1337<tr><td><font color='white'>
 + Website<td>: <font color='LightBlue'>www.JawaTengahXploit.tech<tr><td><font color='white'>
++ Instagram  <td>: <font color='LightBlue'>@akku_santuy<tr><td><font color='white'>
 + Youtube <td>: <font color='LightBlue'>SANTUY86 TECH</font></tr></td><br>
 </table>";
 echo '<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
