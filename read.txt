@@ -175,7 +175,7 @@ text-align: left;
 </head>
 <body>
 <br>
-<font face="Kelly Slab" color="gold" size="7px"><a href="?Santuy">Jawa Tengah Xploit WebShell</font><br>
+<font face="Kelly Slab" color="gold" size="7px">Jawa Tengah Xploit WebShell</font><br>
 </h1></center>
 <center><b><font face="Kelly Slab" color="cyan" size="4">Jangan Lupa Istighfar Kita Semua Pondosa</font></b></center>
 <marquee><b><font face="Kelly Slab" color="white" size="4">Pancasila Cyber Team - Jawa Tengah Xploit - Padang BlackHat - Minions Cyber Crime - FoursDeath Team - Bandung Security Link - Kabustor Ghost - Purwokerto Xploit - Cowok Tersakiti Team - Hacker Patah Hati - Indonesian Cyber Jawa - All Team And My Friends</font></b></marquee>
