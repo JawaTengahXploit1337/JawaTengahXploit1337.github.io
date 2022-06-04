@@ -174,12 +174,13 @@ text-align: left;
 </style>
 </head>
 <body>
-<center>
+<center><link rel="stylesheet" type="text/css" href="https://cdn.prinsh.com/NathanPrinsley-textstyle/nprinsh-stext.css"/>
+
 <br>
-<font face="Kelly Slab" color="white" size="7px">Jawa Tengah Xploit WebShell</font><br>
+<font face="Kelly Slab" color="gold" size="7px"><div class="nprinsley-text-glitchan">Jawa Tengah Xploit WebShell</font><br>
 </h1></center>
-<center><b><font face="Kelly Slab" color="white" size="4">Jangan Lupa Istighfar Kita Semua Pondosa</font></b></center>
-<marquee><b><fonte face="Kelly Slab" color="white" size="4">Pancasila Cyber Team - Jawa Tengah Xploit - Padang BlackHat - All Team And My Friends</font></b></marquee>
+<center><b><font face="Kelly Slab" color="cyan" size="4">Jangan Lupa Istighfar Kita Semua Pondosa</font></b></center>
+<marquee><b><font face="Kelly Slab" color="white" size="4">Pancasila Cyber Team - <font color="red">Jawa Tengah Xploit<font color="white> - Padang BlackHat - Minions Cyber Crime - FoursDeath Team - Bandung Security Link - Kabustor Ghost - Purwokerto Xploit - Cowok Tersakiti Team - Hacker Patah Hati - Indonesian Cyber Jawa - All Team And My Friends</div></font></b></marquee>
 <center><audio autoplay="autoplay" controls="controls" src="https://f.top4top.io/m_2342rizir0.mp3" type="audio/mpeg"></audio></center>
 <table width="100%" border="0" cellpadding="0" cellspacing="0" align="left">
 <tr><td>';
