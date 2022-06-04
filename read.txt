@@ -174,7 +174,7 @@ text-align: left;
 </style>
 </head>
 <body>
-<br>
+<br><center>
 <font face="Kelly Slab" color="gold" size="7px">Jawa Tengah Xploit WebShell</font><br>
 </h1></center>
 <center><b><font face="Kelly Slab" color="cyan" size="4">Jangan Lupa Istighfar Kita Semua Pondosa</font></b></center>
